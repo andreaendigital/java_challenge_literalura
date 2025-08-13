@@ -2,6 +2,9 @@
 
 Catálogo de libros interactivo donde puedes registrar libros en una base de datos y obtener información sobre ellos.  Aprenderás a realizar solicitudes a una API de libros, a manipular datos JSON, guardarlos en una base de datos y, finalmente, a filtrar y mostrar los libros y autores de interés.
 
+<img width="410" height="410" alt="5b3e14cd-f8f9-4089-8eb2-7ea214bdd176" src="https://github.com/user-attachments/assets/da55d1cc-49c6-42ac-a22d-6edb4e1e791c" />
+
+
 ## Descripción del Proyecto :scroll:
 
 Caso planteado: 
